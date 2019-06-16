@@ -1,6 +1,6 @@
 ## NYC Pigeon Organizer
 
-## Learning Goals
+## Learning Goals˜
 
 - Iterate over nested hashes
 - Sort and manipulate hashes
